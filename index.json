@@ -1,0 +1,11 @@
+{
+  "org": "nickoneill",
+  "repo": "PermissionScope",
+  "versions": [
+    {
+      "commit": "156eb08d1123b68a9f129e9780dcb73b20b894a5",
+      "tag": "",
+      "parsed_at": "2026-11-09T19:01:59.951714+00:00"
+    }
+  ]
+}
