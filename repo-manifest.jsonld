@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/nickoneill/PermissionScope/commit/156eb08d1123b68a9f129e9780dcb73b20b894a5",
       "git:hexsha": "156eb08d1123b68a9f129e9780dcb73b20b894a5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/nickoneill/PermissionScope/commit/74ec77e30d552f66d0736c0f2fc9120c2edc465c",
